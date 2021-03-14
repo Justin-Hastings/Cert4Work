@@ -1,0 +1,273 @@
+
+/*  header  ----------------*/
+
+.webTitle {
+  text-align: center;
+}
+
+.cntctDetsHead {
+  float: right;
+}
+
+.header {
+  min-height: 30px;
+}
+
+.logoHeader {
+  width: 15vw;
+}
+
+/* Styles for scroll to top button */
+#scrollTopBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: ;
+  color: ;
+  cursor: pointer;
+  padding: 5px;
+  border-radius: 4px;
+}
+
+.scrlTpBtnIcn {
+  color: grey;
+  font-size: 40px;
+}
+/*  ----------------------- */
+
+/* The sticky class is added to the navbar with JS when it reaches its scroll position */
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+/*  --------------------- */
+
+/*  about  */
+.about {
+  padding-top: 10px;
+}
+
+.abtTitle {
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+.abtPara {
+  padding-left: 30px;
+}
+
+.hrsList {
+  list-style-type:none;
+  font-size: 11.5px;
+}
+
+.logoFooter {
+  width: 12vw;
+}
+
+.footerCntctDets {
+  font-size: 15px;
+}
+
+.minnKotaProStoreImg {
+  width: 15vw;
+}
+
+.tipsRow {
+  padding-top: 30px;
+}
+
+.trailerBrndLogoAbt {
+  max-width: 20vw;
+}
+
+table.hrsListTable th {
+  text-align: right;
+}
+
+.hrsListTable {
+  align-items: center;
+}
+
+.serviceAbtImg {
+  max-width: 10vw;
+}
+
+.rowBackColor1 {
+  background-color: #91affe;
+}
+
+.servicesImg {
+  width: 15vw;
+  margin: 10%;
+}
+
+.whatWeDo {
+  padding-top: 2%;
+}
+
+.weDoList {
+  padding-left: 30px;
+}
+
+.sampleAftMarkTitle {
+  padding-left: 60px;
+}
+
+.seaTrailTrailerList {
+  padding-top: 5px;
+  padding-left: 30px;
+}
+
+.dunbierTrailerList {
+  padding-top: 5px;
+  padding-left: 30px;
+}
+
+.padLeft10 {
+  padding-left: 10px;
+}
+
+.trailerTipsPara {
+  padding-left: 30px;
+}
+
+.sizeRangesTitle {
+  padding-left: 30px;
+}
+
+.sizeRangePara {
+  padding-left: 60px;
+}
+
+.weatherReasons {
+  padding-left: 30px;
+}
+
+.willyWeatherWidgetParent {
+  display: flex;
+}
+
+#willyWeatherWidget {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+}
+
+#willyWeatherAtag {
+  margin: -20px 0 0  0;
+  height: 20px;
+  z-index: 1;
+  position: relative;
+  display: block;
+  text-indent: -9999em;
+}
+
+.yamiOutbrdsYamiLogo {
+  max-width: 25vw;
+}
+
+/* Styles for captions under outboard images */
+figure.item {
+  float: right;
+}
+
+figcaption.caption {
+    display: block;
+    text-align: center;
+    float: none;
+}
+
+.caption {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+figure {
+  display: inline;
+  height:220px;
+}
+
+.afterMarketImages {
+  min-height: 100px;
+}
+
+.sampleServicesImg {
+  max-width: 10vw;
+  margin: 5%;
+}
+
+.abtCntctUsPara {
+  padding-left: 30px;
+}
+
+.padLeft30 {
+  padding-left: 30px;
+}
+
+.padLeft40 {
+  padding-left: 40px;
+}
+
+.padLeft60 {
+  padding-left: 60px;
+}
+
+#locateUsMap {
+  height: 400px;
+  width: 80vw;
+}
+
+.trailerImgs {
+  width: 10vw;
+  margin: 5%;
+}
+
+.captionSize {
+  width: 10vw;
+}
+
+.figImg {
+  width: 12vw;
+  margin: 5%;
+}
+
+.electronicPriceStyle {
+  color: blue;
+}
+
+.usedBoatsPriceStyle {
+  color: blue;
+}
+
+.figUsedBoatImg {
+  width: 15vw;
+  margin: 5%;
+}
+
+.captionSizeUsedBoats {
+  width: 13vw;
+  margin: 3%;
+}
+
+.motorTipsVid {
+  width: 100%;
+  height: 300px;
+}
+
+.boatTipsVid {
+  width: 100%;
+  height: 300px;
+}
+
+.boatBrandLogo {
+  max-width: 20vw;
+}
